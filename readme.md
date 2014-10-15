@@ -19,16 +19,16 @@ It is still possible to [sign the Declaration][sign]
 ##Translations
 The Declaration is currently available in the following languages:
 
-- [Chinese - traditional][chinese_traditional]
-- [Chinese - simplified][chinese_simplified]
-- [Danish]
-- [English]
-- [Finnish]
-- [French]
-- [German]
-- [Russian]
-- [Spanish]
-- [Swedish]
+- [Chinese - traditional][chinese_traditional], pdf
+- [Chinese - simplified][chinese_simplified], pdf
+- [Danish], pdf
+- [English], pdf
+- [Finnish], pdf
+- [French], pdf
+- [German], pdf
+- [Russian], pdf
+- [Spanish], pdf
+- [Swedish], pdf
 
 If you wish to help translate the Declaration into further languages please contact hanshenrik@klimaforum.org
 
