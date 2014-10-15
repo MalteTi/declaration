@@ -19,15 +19,16 @@ It is still possible to [sign the Declaration][sign]
 ##Translations
 The Declaration is currently available in the following languages:
 
-- Chinese (traditional and simplified)
-- Danish
-- English
-- Finnish
-- French
-- German
-- Russian
-- Spanish
-- Swedish
+- [Chinese - traditional][chinese_traditional]
+- [Chinese - simplified][chinese_simplified]
+- [Danish]
+- [English]
+- [Finnish]
+- [French]
+- [German]
+- [Russian]
+- [Spanish]
+- [Swedish]
 
 If you wish to help translate the Declaration into further languages please contact hanshenrik@klimaforum.org
 
@@ -38,6 +39,16 @@ If you wish to help translate the Declaration into further languages please cont
 For further info on the People’s Declaration – System Change – Not Climate Change please see the Klimaforum09 evaluation report
 
 [sign]: http://spreadsheets.google.com/viewform?hl=da&formkey=dHdJS0dWM2ZoUE1zM0xVM3BRXzlQU0E6MA
+[chinese_simplified]: https://github.com/Klimaforum/declaration/raw/master/declaration_chinese_simplified.pdf
+[chinese_traditional]: https://github.com/Klimaforum/declaration/raw/master/declaration_chinese_traditional.pdf
+[danish]: https://github.com/Klimaforum/declaration/raw/master/declaration_danish.pdf
+[english]: https://github.com/Klimaforum/declaration/raw/master/declaration_english.pdf
+[finnish]: https://github.com/Klimaforum/declaration/raw/master/declaration_finnish.pdf
+[french]: https://github.com/Klimaforum/declaration/raw/master/declaration_french.pdf
+[german]: https://github.com/Klimaforum/declaration/raw/master/declaration_german.pdf
+[russian]: https://github.com/Klimaforum/declaration/raw/master/declaration_russian.pdf
+[spanish]: https://github.com/Klimaforum/declaration/raw/master/declaration_spanish.pdf
+[swedish]: https://github.com/Klimaforum/declaration/raw/master/declaration_swedish.pdf
 
 
 ##Summary
