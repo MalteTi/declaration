@@ -72,3 +72,11 @@ We, participating peoples and organisations at Klimaforum09, commit to continue 
 This requires a restoration of the democratic sovereignty of our local communities and of their role as a basic social, political, and economic unit. Local and democratic ownership of, control over, and access to natural resources will be the basis for meaningful and sustainable development of communities and simultaneously for reducing greenhouse gas emissions. There is also a need for stronger regional and international coopera- tive arrangements to manage common and shared resources, as well as for a stronger and democratic UN.
 
 We call upon every concerned person, social movement, and cultural, political or economic organisation to join us in building a strong global movement of movements, which can bring for- ward peoples’ visions and demands at every level of society. Together, we can make global transi- tions to sustainable futures.
+
+##About Klimaforum09
+Klimaforum09 - People's Climate Summit was an open and alternative climate conference that took place during UNFCCC COP15 from 7 December to 18 December 2009 in Copenhagen.
+About 50,000 people from all over the world attended the event with over 300 debates, exhibitions, films, concerts and plays. 
+The Klimaforum09 was organised by the Klimaforum network, a broad network of civil society organisations, and realized with the help of hundreds of volunteers.
+
+Eriksen, S. & Samuelsen, M. & Monabay, R. & Timpte, M. 2010. Civil Societies Klimaforum09: Evaluation Report. Foreningen Civilsamfundets Klimaforum. Copenhagen, Denmark.
+[Evaluation Report of Klimaforum09]:
